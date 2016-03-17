@@ -293,6 +293,7 @@ header .intro-quote-box {
     font-size: 18px;
     font-style: italic;
     line-height: 22px;
+    width: 300px;
     opacity: 0.6;
     filter: alpha(opacity=60);
     background-color: #ccc;
@@ -302,6 +303,7 @@ header .intro-text .intro-quote {
     margin-bottom: 25px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
+    text-align: left;
     font-style: italic;
     line-height: 22px;
 }
