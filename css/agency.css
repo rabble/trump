@@ -285,19 +285,12 @@ header .intro-text .intro-lead-in {
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+    color: #fff;
+    background-color: #000;
 }
 
-header .intro-quote-box {
-    margin-bottom: 25px;
-    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 18px;
-    font-style: italic;
-    line-height: 22px;
-    width: 300px;
-    opacity: 0.6;
-    filter: alpha(opacity=60);
-    background-color: #ccc;
-}
 
 header .intro-text .intro-quote {
     margin-bottom: 25px;
@@ -306,6 +299,10 @@ header .intro-text .intro-quote {
     text-align: left;
     font-style: italic;
     line-height: 22px;
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+    color: #fff;
+    background-color: #000;
 }
 
 header .intro-text .intro-heading {
@@ -315,6 +312,10 @@ header .intro-text .intro-heading {
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+    color: #fff;
+    background-color: #000;
 }
 
 @media(min-width:768px) {
